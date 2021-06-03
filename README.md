@@ -10,8 +10,11 @@ The Bot replys with 10 seconds with the class name\
 eg : A1 EC-Lab, A2 TOM-Lab, A3 MCT-Lab, A4 IE-Lab\
 \
 Example :\
-![alt text](https://github.com/DAVEinside/twitter_timetable/blob/main/twitter_bot%20example.png?raw=true)\
+![alt text](https://github.com/DAVEinside/twitter_timetable/blob/main/twitter_bot%20example.png?raw=true)
 \
 \
-
-
+\
+\
+\
+The Time Table for the Week is :\
+![alt text](https://github.com/DAVEinside/twitter_timetable/blob/main/time_table1.png?raw=true)
